@@ -1,0 +1,22 @@
+body {
+	font-family:Georgia, "Times New Roman", Times, serif; 
+	color:white; 
+	padding-left:8em;
+	background:url(http://realistichd.com/wp-content/uploads/2013/04/abstract-3d-wallpapers-smoke.jpg)no-repeat;
+}
+.button {
+	display:block;
+	width:120px;
+	height:120px;
+	border-radius:60px;
+	font-family:Arial, sans-serif; 
+	font-size:24px;
+	color:steelblue;
+	line-height:120px;
+	text-align:center;
+	background:white;
+	float:left;
+	margin:2em 5em;
+	position:relative;
+} 
+a:visited {color:#D962D7;}
